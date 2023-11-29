@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Learning Resources:
+- [js-animation-awwwards-course](https://github.com/gnikoloff/js-animation-awwwards-course)
+- [Best-websites-a-programmer-should-visit](https://github.com/chocopuff2020/Best-websites-a-programmer-should-visit)
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+
 <!--
 **jancarlohendriks/jancarlohendriks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
